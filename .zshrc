@@ -84,6 +84,7 @@ plugins=(git
 	zsh-completions
 	zsh-syntax-highlighting
 	asdf
+	gitignore
 )
 
 
